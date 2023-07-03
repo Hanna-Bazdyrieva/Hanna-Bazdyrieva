@@ -11,18 +11,6 @@
 <a href="https://t.me/Hanna_Bazdyrieva" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /> </a>
 <a href="https://www.linkedin.com/in/hanna-bazdyrieva/" rel="noopener noreferrer" target="_blank"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="codewars" /> </a>
 
-
-## 📊 Statistics
-
-<!--
-[![](https://github-readme-stats.vercel.app/api?username=hanna-bazdyrieva&theme=vision-friendly-dark)](https://github.com/hanna-bazdyrieva/github-readme-stats)
--->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanna-bazdyrieva&theme=gruvbox)](https://github.com/hanna-bazdyrieva/github-readme-stats)
-
-[![](
-https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-bazdyrieva&theme=gruvbox
-)](https://github.com/hanna-bazdyrieva/github-readme-stats)
-
 # 🛠️ My Skills
 
 ## Frontend Stack:
@@ -60,6 +48,17 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-bazdyrieva&
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+## 📊 Statistics
+
+<!--
+[![](https://github-readme-stats.vercel.app/api?username=hanna-bazdyrieva&theme=vision-friendly-dark)](https://github.com/hanna-bazdyrieva/github-readme-stats)
+-->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanna-bazdyrieva&theme=gruvbox)](https://github.com/hanna-bazdyrieva/github-readme-stats)
+
+[![](
+https://github-readme-stats.vercel.app/api/top-langs/?username=hanna-bazdyrieva&theme=gruvbox
+)](https://github.com/hanna-bazdyrieva/github-readme-stats)
 <!--
 ## 📌 Pinned
 [![taskpro-api](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=svmoskalyov&repo=taskpro-api&icon_color=ffc600&text_color=41b883&bg_color=00000000)](https://github.com/svmoskalyov/taskpro-api)
